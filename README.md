@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VarshaDhiman
-- 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning MCA (Jain University Bangaluru).
-- 👀 Currently I'm looking for a job as a python developer to brush up skills.
+- 👀 I’m interested in Software Engineer.
+- 🌱 I'm learning MCA from Jain (Deemed-to-be)University Bangaluru.
+- 👀 Currently I'm looking for a job to brush up skills.
 - 📫 How to reach me dhimanvarsha756@gmail.com.
 
 <!---
