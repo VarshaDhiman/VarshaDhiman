@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VarshaDhiman
-- 👀 I’m interested as Python Developer .
 - 🌱 I'm learning MCA from Jain (Deemed-to-be)University Bangaluru.
 - 👀 Currently I'm looking for job to brush up skills.
 - 📫 How to reach me dhimanvarsha756@gmail.com.
